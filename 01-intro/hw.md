@@ -43,7 +43,7 @@ How many records are in the dataset?
 How many fuel types are presented in the dataset?
 
 - 1
-- 2
+- 2 **
 - 3
 - 4
 
@@ -53,9 +53,9 @@ How many columns in the dataset have missing values?
 
 - 0
 - 1
-- 2 **
+- 2 
 - 3
-- 4
+- 4 **
 
 ### Q5. Max fuel efficiency
 
