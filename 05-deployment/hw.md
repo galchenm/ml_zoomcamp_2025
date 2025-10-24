@@ -14,7 +14,7 @@ In this homework, we're going to continue working with the lead scoring dataset.
 * Install `uv`
 * What's the version of uv you installed?
 * Use `--version` to find out
-ANSW: uv 0.8.17 (10960bc13 2025-09-10)
+ANSW: uv 0.9.5
 
 ## Initialize an empty uv project
 
