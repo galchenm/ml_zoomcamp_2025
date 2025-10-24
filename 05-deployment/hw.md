@@ -14,7 +14,7 @@ In this homework, we're going to continue working with the lead scoring dataset.
 * Install `uv`
 * What's the version of uv you installed?
 * Use `--version` to find out
-
+ANSW: uv 0.8.17 (10960bc13 2025-09-10)
 
 ## Initialize an empty uv project
 
@@ -25,9 +25,9 @@ and do it there.
 ## Question 2
 
 * Use uv to install Scikit-Learn version 1.6.1 
-* What's the first hash for Scikit-Learn you get in the lock file?
+* What's the first hash for Scikit-Learn you get in the lock file? 
 * Include the entire string starting with sha256:, don't include quotes
-
+ANSW: sha256:b4fc2525eca2c69a59260f583c56a7557c6ccdf8deafdba6e060f94c1c59738e
 
 ## Models
 
@@ -81,7 +81,7 @@ Let's use the model!
 What's the probability that this lead will convert? 
 
 * 0.333
-* 0.533
+* 0.533 **
 * 0.733
 * 0.933
 
@@ -114,7 +114,7 @@ requests.post(url, json=client).json()
 What's the probability that this client will get a subscription?
 
 * 0.334
-* 0.534
+* 0.534 **
 * 0.734
 * 0.934
 
@@ -151,7 +151,7 @@ Download the base image `agrigorev/zoomcamp-model:2025`. You can easily make it 
 So what's the size of this base image?
 
 * 45 MB
-* 121 MB
+* 121 MB **
 * 245 MB
 * 330 MB
 
@@ -197,7 +197,7 @@ requests.post(url, json=client).json()
 What's the probability that this lead will convert?
 
 * 0.39
-* 0.59
+* 0.59 **
 * 0.79
 * 0.99
 
